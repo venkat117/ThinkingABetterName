@@ -1,4 +1,4 @@
-# ThinkingABetterName
+# SubDomain Huntress
 
 # Subdomain Status Checker
 
