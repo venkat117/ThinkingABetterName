@@ -56,7 +56,7 @@ if __name__ == "__main__":
     crtsh_api = crtshAPI()
 
     # Specify the domain for which you want to retrieve subdomains
-    domain_to_search = "uber.com"
+    domain_to_search = "dazn.com"
 
     # Call the search method to retrieve subdomain information
     result = crtsh_api.search(domain_to_search)
