@@ -24,7 +24,7 @@ Note: The script handles unreachable domains gracefully and excludes them from t
 
 ## Dependencies
 
-    - Python 3.x
+    - Python3 3.x
     - Requests library (installed via pip)
 
 ## License
