@@ -12,7 +12,7 @@ This Python script fetches subdomains for a given domain using the "crt.sh" API 
 
 2. Run the script:
 
-        python crtsh_subdomains_status.py
+        python3 crtsh_subdomains_status.py
 
     Replace the value of the `domain_to_search` variable in the script with the domain you want to search for subdomains.
 
